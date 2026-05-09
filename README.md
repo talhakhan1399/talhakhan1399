@@ -5,16 +5,14 @@ Welcome to my GitHub profile! I'm a full-stack mobile and web application develo
 📌 What I'm currently working on
 - Building versatile mobile and web applications using the power of **Dart** across both platforms.
 - Creating cross-platform mobile apps with **Flutter** and efficient web applications using the **Jaspr** framework.
-- Developing **Craflo**, a low-code/no-code visual web creation tool.
 - Building **BookForge AI**, an AI-powered tool for generating and publishing manuscripts.
-- Researching and planning educational content in a documentary style, focusing on Dart, AI integration, and development workflows.
 
 📌 What tools I use
-- **Languages:** Dart, C# (Unity), HTML/CSS/JS
+- **Languages:** Dart,
 - **Frontend & Frameworks:** Flutter, Jaspr
 - **Backend & Database:** Firebase (Authentication, Firestore, Storage), Serverpod (for scalable custom Dart REST APIs)
 - **Environment & Tools:** VS Code, Android Studio, Git
-- **Design & Integration:** AI APIs (LLMs, Voice Cloning), focusing on dark-themed, minimalistic, and cinematic UI/UX design
+- **Design & Integration:**  focusing on dark-themed, minimalistic, and cinematic UI/UX design
 
  📌 How to reach me
 - **Email:** [talhakhankhattack20@gmail.com]
